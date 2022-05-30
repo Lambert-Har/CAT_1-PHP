@@ -25,10 +25,10 @@ session_start();
                     <h6 class="pb-5">Connect to IREMBO</h6>
 
                     
-                    <a href="">
+                    <a href="https://www.facebook.com/">
                         <div class="bg-primary text-white d-flex ps-5 position-relative rounded mx-5 mt-5 mb-5 px-3 pt-2 border-2 shadow">
                             <i class="fab fa-facebook-f text-white position-absolute" style="left: 20px; top: 14px; font-size: 23px;" aria-hidden="true"></i>
-                            <a href="https://www.facebook.com/">Continue with facebook</a>
+                            <h6>Continue with facebook</h6>
                         </div>
                     </a>
 
